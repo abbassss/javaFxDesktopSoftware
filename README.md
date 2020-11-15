@@ -1,4 +1,4 @@
 # javaFxDesktopSoftware
 Desktop software with JavaFx for store user
-It include CRUD for client
+It include CRUD for client and table for display and filter the results
 Database used in this project is postgres
